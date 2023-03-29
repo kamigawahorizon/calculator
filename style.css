@@ -8,11 +8,11 @@
     --btn-hover     : #ddd;
     --btn-active    : #ccc;
     --btn-red       : salmon;
-    --btn-red-hover : #e99;
-    --btn-red-active: #d88;
-    --btn-blue      : #aaf;
-    --btn-blue-hover: #99e;
-    --btn-blue-active: #88d;
+    --btn-red-hover : red;
+    --btn-red-active: pink;
+    --btn-blue      : blueviolet;
+    --btn-blue-hover:  plum;
+    --btn-blue-active: orchid;
 }
 
 
