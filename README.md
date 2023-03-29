@@ -2,4 +2,4 @@
 
 
 
-link: http://kamigawahorizon.github.io.calculators/
+link: https://kamigawahorizon.github.io/calculator/
